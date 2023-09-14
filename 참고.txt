@@ -1,0 +1,2 @@
+# Nodejs-Sequelize로-CRUD-구현해-보기-feat-MySQL
+https://fomaios.tistory.com/entry/Nodejs-Sequelize%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%B4-%EB%B3%B4%EA%B8%B0-feat-MySQL
